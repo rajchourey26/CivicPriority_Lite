@@ -1,6 +1,5 @@
 # CivicPriority_Lite
 CivicPriority Lite — a text-only AI notebook that analyzes citizen complaints and ranks development priorities for constituency planning.
-# CivicPriority Lite
 
 **Turning citizen complaints into ranked development priorities with Gemma 4**
 
